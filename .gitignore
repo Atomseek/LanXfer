@@ -1,0 +1,4 @@
+dist/
+magisk/bin/
+*.exe
+*.zip

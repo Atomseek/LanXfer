@@ -1,0 +1,6 @@
+id=lanxfer
+name=LanXfer 局域网快传服务
+version=v1.2.0
+versionCode=120
+author=LanXfer
+description=电脑端 LanXfer 管理手机文件的服务端。点「操作」开启/关闭服务并查看令牌。
